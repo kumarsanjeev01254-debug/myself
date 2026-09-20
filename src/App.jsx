@@ -1,6 +1,6 @@
 import About from "./componets/About/About"
 import Home from "./componets/Home/Home"
-import Nav from "./componets/nav/nav"
+import Nav from "./componets/Nav/Nav"
 import Project from "./componets/Projects/Project"
 import Contact from "./componets/Contact/Contect"
 import Footer from "./componets/Footer/Footer"
